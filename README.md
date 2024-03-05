@@ -41,11 +41,11 @@ Reference with code practice:
 These videos can be helpful in learning Python
 
 - [Python with Mosh](https://youtu.be/kqtD5dpn9C8)
-- [Python - Travesty Media](https://youtu.be/JJmcL1N2KQs)
+- [Python - Traversy Media](https://youtu.be/JJmcL1N2KQs)
 
 ## Problems
 
-Please attempt the solve the problems described in the following `.py` files:
+Please attempt to solve the problems described in the following `.py` files:
 
 - [Question 1](./src/q1.py)
 - [Question 2](./src/q2.py)
