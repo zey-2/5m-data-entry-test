@@ -57,7 +57,19 @@ Please attempt to solve the problems described in the following `.py` files:
 
 ## Submission
 
-- You could submit by zipping up the project folder, place it on a public google drive, and submit the URL to NTU Survey Portal, or
-- Submit a github url if you have knowledge of using github.
+Submission Instructions
+
+You must submit your answers via GitHub. Follow these steps :
+
+- Create a GitHub account (if you don’t already have one) at https://github.com/
+- Create a new repository on GitHub. Name it _data-science-entry-test_.
+- Upload your solutions as .py files in the repository. Each question should be in a separate file (q1.py, q2.py, q3.py, q4.py, q5.py, q6.py, q7.py). You can also upload them as Jupyter or Collab notebooks.
+- Submit the link to your GitHub repository on the NTU Survey Portal.
+
+If you're unfamiliar with GitHub, start with these beginner-friendly resources:
+
+- [W3Schools Git Tutorial](https://www.w3schools.com/git/)
+- [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
+
 
 > Should you face any difficulties, please contact your program administrator.
