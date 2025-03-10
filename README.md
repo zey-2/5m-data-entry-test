@@ -62,7 +62,7 @@ Submission Instructions
 You must submit your answers via GitHub. Follow these steps :
 
 - Create a GitHub account (if you don’t already have one) at https://github.com/
-- Create a new repository on GitHub. Name it _data-science-entry-test_.
+- Create a new repository on GitHub. Name it _data-science-entry-test_
 - Upload your solutions as .py files in the repository. Each question should be in a separate file (q1.py, q2.py, q3.py, q4.py, q5.py, q6.py, q7.py). You can also upload them as Jupyter or Collab notebooks.
 - Submit the link to your GitHub repository on the NTU Survey Portal.
 
