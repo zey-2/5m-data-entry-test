@@ -55,15 +55,26 @@ Please attempt to solve the problems described in the following `.py` files:
 - [Question 6](./src/q6.py)
 - [Question 7](./src/q7.py)
 
-## Submission
+Your code should be easily readable and well-documented with appropriate comments
+to explain how it works. 
 
-Submission Instructions
+### 📝 Use of Generative AI tools ###
 
-You must submit your answers via GitHub. Follow these steps :
+Although AI assistance (e.g. ChatGPT) is allowed for coding assignments, you are solely 
+responsible for understanding all submitted code. You should being able to explain your
+code submission and you will be held accountable for the code's functionality and logic.
+
+## Submission Instructions
+
+⚠️ You must have a GitHub account to submit your coding assessment ⚠️
+
+Follow these steps :
 
 - Create a GitHub account (if you don’t already have one) at https://github.com/
-- Create a new repository on GitHub. Name it _data-science-entry-test_
-- Upload your solutions as .py files in the repository. Each question should be in a separate file (q1.py, q2.py, q3.py, q4.py, q5.py, q6.py, q7.py). You can also upload them as Jupyter or Collab notebooks.
+- Create a new repository on GitHub and name it `data-science-entry-test`.
+- Upload your solutions as `*.py` files in the repository.
+- Each question should be in a separate file (`q1.py`, `q2.py`, `q3.py`, `q4.py`, `q5.py`, `q6.py`, `q7.py`).
+- You may also upload them as Jupyter or Collab notebooks.
 - Submit the link to your GitHub repository on the NTU Survey Portal.
 
 If you're unfamiliar with GitHub, start with these beginner-friendly resources:
